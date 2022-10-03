@@ -21,8 +21,7 @@ The code highly refers to the [`Matlab`](https://www.mathworks.com/help/audio/ug
 # Prepare an Environment
 
 ```
-git clone https://github.com/BrownsugarZeer/Spectral_features.git
-cd Spectral_features
+git clone https://github.com/BrownsugarZeer/SpectralFeatures.git
 python -m venv venv
 venv\Scripts\activate.bat
 pip install -r requirements.txt
